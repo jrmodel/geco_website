@@ -1,6 +1,6 @@
 ---
-title: Francesco Giardina
-role: PhD Student
+title: Jiarui Wu
+role: Master Student
 avatar_filename: img_francesco.jpg
 bio: []
 interests:
@@ -11,7 +11,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: google-scholar
+ 
     icon_pack: ai
     link: https://scholar.google.com/citations?user=bqW7Vi8AAAAJ&hl=en&oi=ao
   - icon: github
